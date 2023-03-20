@@ -10,8 +10,6 @@ My other profile links :link:
 [![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~019bfa312e5b78262a)
 [![stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/11483296/sajjad-zaidi)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=smsajjadzaidi&count_private=true&show_icons=True)
-
 
 
 <!--

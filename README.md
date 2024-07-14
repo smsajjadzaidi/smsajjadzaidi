@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a mid-level python developer having around 3 years of industry experience. I’m currently working as a python developer for @sinecure-ai. I enjoy testing out new libraries and packages, and love contributing in them.
+I am a mid-level Python developer with more than 4 years of industry experience. I’m currently working as a Python developer for @sinecure-ai. I enjoy testing out new libraries and packages and love contributing to them.
 
-You can reach me at :email: smsajjadzaidi@gmail.com
+You can reach me at: smsajjadzaidi@gmail.com
 
 My other profile links :link:
 
@@ -10,7 +10,10 @@ My other profile links :link:
 [![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~019bfa312e5b78262a)
 [![stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/11483296/sajjad-zaidi)
 
+<b>📊 Some Leetcode stats </b>
 
+
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/sajjadzaidi/?ext=activity?theme=nord)
 
 <!--
 **smsajjadzaidi/smsajjadzaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

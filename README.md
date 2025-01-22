@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a mid-level Python developer with more than 4 years of industry experience. I’m currently working as a Python developer for @sinecure-ai. I enjoy testing out new libraries and packages and love contributing to them.
+I am a mid-level Python developer with more than 5 years of industry experience. I’m currently working as a Python developer for @sinecure-ai. I enjoy testing out new libraries and packages and love contributing to them.
 
 You can reach me at: smsajjadzaidi@gmail.com
 

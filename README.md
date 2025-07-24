@@ -12,8 +12,7 @@ My other profile links :link:
 
 <b>📊 Some Leetcode stats </b>
 
-
- ![Leetcode Stats](https://leetcard.jacoblin.cool/sajjadzaidi/?ext=activity?theme=nord)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sajjadzaidi?theme=light&font=Reenie%20Beanie)
 
 <!--
 **smsajjadzaidi/smsajjadzaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
